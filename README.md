@@ -4,7 +4,7 @@
 
 **Materia:** Aplicaciones móviles
 
-**Tema:** Examen de AAplicaciones Móviles with .NET MAUI
+**Tema:** Examen de Aplicaciones Móviles with .NET MAUI
 
 **Desarrollo:** Crud desarollada para dispositivos móviles con .NET Maui.
 
