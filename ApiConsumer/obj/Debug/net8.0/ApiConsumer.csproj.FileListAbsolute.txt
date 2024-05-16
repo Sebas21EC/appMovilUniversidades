@@ -1,0 +1,12 @@
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\bin\Debug\net8.0\ApiConsumer.deps.json
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\bin\Debug\net8.0\ApiConsumer.dll
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\bin\Debug\net8.0\ApiConsumer.pdb
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.csproj.AssemblyReference.cache
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.AssemblyInfoInputs.cache
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.AssemblyInfo.cs
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.csproj.CoreCompileInputs.cache
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.dll
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\refint\ApiConsumer.dll
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ApiConsumer.pdb
+C:\Maui Apps\AppUtn.Examen\ApiConsumer\obj\Debug\net8.0\ref\ApiConsumer.dll
